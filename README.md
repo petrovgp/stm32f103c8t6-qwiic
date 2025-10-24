@@ -6,11 +6,18 @@ An STM32F103C8T6 breakout board design with SparkFun Qwiic-compatible connectors
 - Test points for power signals (5V, 3.3V and GND)
 - Small size and descriptive silkscreen
 
+Designed using KiCAD 9.
+
 # Board Design
 
 ![alt text](https://github.com/petrovgp/stm32f103c8t6-qwiic/blob/main/images/stm32f103c8t6-qwiic-front.png?raw=true)
 
 ![alt text](https://github.com/petrovgp/stm32f103c8t6-qwiic/blob/main/images/stm32f103c8t6-qwiic-back.png?raw=true)
+
+# Disclaimer for production
+
+Production files have been generated using JLCPCB KiCAD plugin. Adjust BOM and double check exported files before ordering this PCB. Project files are avaialable if you wish
+to modify the layout, and manually export GERBER or other production files.
 
 # Trademark Disclaimer
 
